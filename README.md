@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @1Silc,
+- 👀 I’m interested in learning how to code in specific languages.
+- 🌱 I’m currently learning Python and JavaScript.
+- 💞️ I’m looking to collaborate on stupid but funny websites.
+- ⚡ Fun fact: I make random things for fun.
